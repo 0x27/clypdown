@@ -1,7 +1,7 @@
 # clypdown
 
 ## TL;DR  
-I was trying to download a tune from [clyp](https://clyp.it/) and the download button was not enabled. No fear, the API comes to the rescue and we can ignore this.
+I was trying to download a tune from [clyp](https://clyp.it/) and the download button was not enabled. No fear, [the API](https://clyp.it/api) comes to the rescue and we can ignore this.
 
 ## Demo  
 Youtube vidya to come later or whatever, maybe once I add list mode.
