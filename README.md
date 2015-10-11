@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Thanks  
 Thanks to [Sabrepulse](https://twitter.com/sabrepulse) for having tunes what were uploaded on there with the download button disabled ;)
 
-I do strongly suggest you actually support artists and stuff, but if you are on a box where the web-player refuses to work, nothing wrong with 'solving' the problen creatively.
+I do strongly suggest you actually support artists and stuff, but if you are on a box where the web-player refuses to work, nothing wrong with 'solving' the problem creatively.
 
 ## Beer?
 If you found this useful, donations to the beer/rum supply are always appreciated at the cryptocurrency bin of   ```13wUj3ZMut6uJAZKgZ4jCGz6tfqRvUzRgj```, or via [My Coinbase](https://www.coinbase.com/infodox/)
