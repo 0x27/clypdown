@@ -17,6 +17,12 @@ $ python ~/clyp.py https://clyp.it/hrvttfzp
 $
 ```
 
+## Install
+You will need the ```clint``` and ```requests``` modules for this.
+```
+pip install -r requirements.txt
+```
+
 ## Licence
 [Licenced under the WTFPL](http://wtfpl.net)
 
