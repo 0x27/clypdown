@@ -26,5 +26,8 @@ pip install -r requirements.txt
 ## Licence
 [Licenced under the WTFPL](http://wtfpl.net)
 
+## Thanks  
+Thanks to [Sabrepulse](https://twitter.com/sabrepulse) for having tunes what were uploaded on there with the download button disabled ;)
+
 ## Beer?
 If you found this useful, donations to the beer/rum supply are always appreciated at the cryptocurrency bin of   ```13wUj3ZMut6uJAZKgZ4jCGz6tfqRvUzRgj```
